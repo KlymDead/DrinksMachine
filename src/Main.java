@@ -38,7 +38,7 @@ public class Main{
                     break;
                 }
             }
-            int drinkNumber = -1;
+            int drinkNumber = 0;
             while (true) {
                 System.out.println("Enter number of drinks : ");
                 if (scanner.hasNextInt()) {
